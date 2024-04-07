@@ -1,0 +1,1 @@
+[['AutoClicker', 1, 25], ['Mouse', 5, 100], ['Keyboard', 15, 250], ['Computer', 30, 800], ['Programmer', 50, 1500], ['Website', 80, 5000], ['Franchise', 100, 8500], ['Company', 150, 13000]]
